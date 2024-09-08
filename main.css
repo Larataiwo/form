@@ -1,0 +1,11 @@
+.label, #name, #email, #password {
+    display: block;
+}
+
+.label, #email, #password {
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
